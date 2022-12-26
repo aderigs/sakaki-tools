@@ -81,7 +81,7 @@ and put the following text in the file:
  
 location = /usr/local/portage/sakaki-tools
 sync-type = git
-sync-uri = https://github.com/sakaki-/sakaki-tools.git
+sync-uri = https://github.com/aderigs/sakaki-tools.git
 priority = 50
 auto-sync = yes
 ```
